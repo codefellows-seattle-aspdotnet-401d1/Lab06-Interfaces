@@ -6,6 +6,14 @@ namespace GameJobs
 {
     class Paladin : Player, IOneHandedWeapons, ITwoHandedWeapons, ISpellcasting
     {
+        public Paladin(string name, int maxHp, int defense)
+        {
+            Name = name;
+            MaxHP = maxHp;
+            CurrentHP = maxHp;
+            Defense = defense;
+        }
+
         public void IsDivine()
         {
             Console.WriteLine($"{Name} is full of holy power.");
