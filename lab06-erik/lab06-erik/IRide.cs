@@ -6,5 +6,8 @@ namespace lab06_erik
 {
     interface IRide
     {
+        void Peddel();
+
+
     }
 }

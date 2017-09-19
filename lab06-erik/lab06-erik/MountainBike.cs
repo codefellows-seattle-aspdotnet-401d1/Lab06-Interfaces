@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab06_erik
 {
-    class MountainBike : Bike, IRide
+    class MountainBike : Bike
     {
         public void Ride(IRide person)
         {

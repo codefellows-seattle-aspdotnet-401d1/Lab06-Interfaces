@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lab06_erik
 {
-    class Person
+    class Person : IRide, ISafty
     {
     }
 }
