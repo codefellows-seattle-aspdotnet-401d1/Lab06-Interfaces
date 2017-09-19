@@ -6,5 +6,6 @@ namespace GameJobs
 {
     interface IStaves
     {
+        void HasWisdom();
     }
 }

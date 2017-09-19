@@ -6,5 +6,7 @@ namespace GameJobs
 {
     interface ISpellcasting
     {
+        void HasKnowledge();
+        void HasIntelligence();
     }
 }

@@ -6,5 +6,7 @@ namespace GameJobs
 {
     interface ITwoHandedWeapons
     {
+        void HasStrength();
+        void HasTwoHandedSkill();
     }
 }
