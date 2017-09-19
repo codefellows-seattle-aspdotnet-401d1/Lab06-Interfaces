@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.deps.json
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.dll
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\bin\Debug\netcoreapp2.0\InterfacePractice.pdb
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.dll
+C:\Users\acohr\source\repos\Lab06-Interfaces\InterfacePractice\obj\Debug\netcoreapp2.0\InterfacePractice.pdb
