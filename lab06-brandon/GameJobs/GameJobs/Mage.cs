@@ -6,6 +6,13 @@ namespace GameJobs
 {
     class Mage : Player, IOneHandedWeapons, IStaves, ISpellcasting
     {
+        public Mage(string name, int maxHp, int defense)
+        {
+            Name = name;
+            MaxHP = maxHp;
+            CurrentHP = maxHp;
+            Defense = defense;
+        }
 
         public void IsMystical()
         {
