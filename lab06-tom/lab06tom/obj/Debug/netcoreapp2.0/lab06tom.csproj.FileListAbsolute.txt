@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\bin\Debug\netcoreapp2.0\lab06tom.deps.json
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\bin\Debug\netcoreapp2.0\lab06tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\bin\Debug\netcoreapp2.0\lab06tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\bin\Debug\netcoreapp2.0\lab06tom.dll
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\bin\Debug\netcoreapp2.0\lab06tom.pdb
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\obj\Debug\netcoreapp2.0\lab06tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\obj\Debug\netcoreapp2.0\lab06tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\obj\Debug\netcoreapp2.0\lab06tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\obj\Debug\netcoreapp2.0\lab06tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\obj\Debug\netcoreapp2.0\lab06tom.dll
+C:\Users\Tom\source\repos\Lab06-Interfaces\lab06-tom\lab06tom\obj\Debug\netcoreapp2.0\lab06tom.pdb
