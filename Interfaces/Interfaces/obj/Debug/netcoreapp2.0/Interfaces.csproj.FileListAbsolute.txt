@@ -1,0 +1,11 @@
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.deps.json
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.json
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.dev.json
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.dll
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.pdb
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfo.cs
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.dll
+C:\Users\Duane Rush\source\repos\Lab06-Interfaces\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.pdb
