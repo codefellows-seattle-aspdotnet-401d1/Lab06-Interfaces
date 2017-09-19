@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.deps.json
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.json
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.dll
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\bin\Debug\netcoreapp2.0\Interfaces.pdb
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.dll
+C:\Users\admin\codefellows\401\lab06-gregory\Interfaces\Interfaces\obj\Debug\netcoreapp2.0\Interfaces.pdb
