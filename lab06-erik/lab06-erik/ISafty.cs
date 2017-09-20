@@ -6,5 +6,6 @@ namespace lab06_erik
 {
     interface ISafty
     {
+        void Helmet();
     }
 }
